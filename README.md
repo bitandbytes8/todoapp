@@ -43,5 +43,6 @@
 > delete all inside div in App.js
 > 
 > delete import statement of logo.svg in App.js
-> 
-> 
+
+### Material UI Install
+> npm install @material-ui/core
